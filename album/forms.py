@@ -13,7 +13,7 @@ class AlbumForm(forms.ModelForm):
         model = Album
         fields = "__all__"
         widgets = {
-            'musician': forms.SelectMultiple(attrs={'class': 'select2'}),
+            'musician': forms.Select(attrs={'class': 'select2'}),
             'rating': forms.Select(choices=CHOICES,attrs={'class': 'select2'}),
         }
         

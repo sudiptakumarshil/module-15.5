@@ -1,0 +1,646 @@
+[
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "Musician",
+        "importPath": "musician.models",
+        "description": "musician.models",
+        "isExtraImport": true,
+        "detail": "musician.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Album",
+        "importPath": "album.models",
+        "description": "album.models",
+        "isExtraImport": true,
+        "detail": "album.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "album.migrations.0001_initial",
+        "description": "album.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('musician', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Album',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "album.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "AlbumConfig",
+        "kind": 6,
+        "importPath": "album.apps",
+        "description": "album.apps",
+        "peekOfCode": "class AlbumConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'album'",
+        "detail": "album.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AlbumForm",
+        "kind": 6,
+        "importPath": "album.forms",
+        "description": "album.forms",
+        "peekOfCode": "class AlbumForm(forms.ModelForm):\n    class Meta:\n        model = Album\n        fields = \"__all__\"\n        widgets = {\n            'musician': forms.Select(attrs={'class': 'select2'}),\n            'rating': forms.Select(choices=CHOICES,attrs={'class': 'select2'}),\n        }",
+        "detail": "album.forms",
+        "documentation": {}
+    },
+    {
+        "label": "CHOICES",
+        "kind": 5,
+        "importPath": "album.forms",
+        "description": "album.forms",
+        "peekOfCode": "CHOICES = (\n        ('1', '1'),\n        ('2', '2'),\n        ('3', '3'),\n        ('4', '4'),\n        ('5', '5'),\n    )\nclass AlbumForm(forms.ModelForm):\n    class Meta:\n        model = Album",
+        "detail": "album.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Album",
+        "kind": 6,
+        "importPath": "album.models",
+        "description": "album.models",
+        "peekOfCode": "class Album(models.Model):\n    name = models.CharField(max_length=100)\n    musician = models.ForeignKey(Musician, on_delete=models.CASCADE)\n    release_date = models.DateField(auto_now=True)\n    rating = models.SmallIntegerField()",
+        "detail": "album.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "album.urls",
+        "description": "album.urls",
+        "peekOfCode": "urlpatterns = [\n    path('add/', add_album, name='album.add'),\n    path('edit/<int:id>', edit_album, name='album.edit'),\n    path('delete/<int:id>', delete_album, name='album.delete'),\n]",
+        "detail": "album.urls",
+        "documentation": {}
+    },
+    {
+        "label": "add_album",
+        "kind": 2,
+        "importPath": "album.views",
+        "description": "album.views",
+        "peekOfCode": "def add_album(request):\n    if request.method == 'POST':\n        album_form = forms.AlbumForm(request.POST)\n        if album_form.is_valid():\n            album_form.save()\n            messages.success(request, 'Your form has been submitted successfully!')\n            return redirect('album.add')\n    form = forms.AlbumForm()\n    return render(request,'add_album.html',{'form':form})\ndef edit_album(request,id):",
+        "detail": "album.views",
+        "documentation": {}
+    },
+    {
+        "label": "edit_album",
+        "kind": 2,
+        "importPath": "album.views",
+        "description": "album.views",
+        "peekOfCode": "def edit_album(request,id):\n    album = Album.objects.get(pk=id)\n    album_form = forms.AlbumForm(instance=album)\n    if request.method == 'POST':\n        album_form = forms.AlbumForm(request.POST,instance=album)\n        if album_form.is_valid():\n            album_form.save()\n            messages.success(request, 'The album has been updated successfully!')\n            return redirect('home')\n    return render(request,'add_album.html',{'form':album_form})",
+        "detail": "album.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete_album",
+        "kind": 2,
+        "importPath": "album.views",
+        "description": "album.views",
+        "peekOfCode": "def delete_album(request,id):\n    album = Album.objects.get(pk=id)\n    album.delete()\n    messages.success(request, 'Record deleted successfully!')\n    return redirect('home')",
+        "detail": "album.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "music.asgi",
+        "description": "music.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "music.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "music.settings",
+        "description": "music.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-2e9ro&f2y=r0gf#m&s-^ruhpqoz4=3%#_zomgi=@7v^2c36v(s'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "music.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "music.settings",
+        "description": "music.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-2e9ro&f2y=r0gf#m&s-^ruhpqoz4=3%#_zomgi=@7v^2c36v(s'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "music.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "music.settings",
+        "description": "music.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "music.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "music.settings",
+        "description": "music.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'musician','album',",
+        "detail": "music.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "music.settings",
+        "description": "music.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'musician','album',\n    'crispy_forms','crispy_bootstrap5'\n]",
+        "detail": "music.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CRISPY_ALLOWED_TEMPLATE_PACKS",
+        "kind": 5,
+        "importPath": "music.settings",
+        "description": "music.settings",
+        "peekOfCode": "CRISPY_ALLOWED_TEMPLATE_PACKS = \"bootstrap5\"\nCRISPY_TEMPLATE_PACK = \"bootstrap5\"\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',",
+        "detail": "music.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CRISPY_TEMPLATE_PACK",
+        "kind": 5,
+        "importPath": "music.settings",
+        "description": "music.settings",
+        "peekOfCode": "CRISPY_TEMPLATE_PACK = \"bootstrap5\"\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "music.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "music.settings",
+        "description": "music.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'music.urls'",
+        "detail": "music.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "music.settings",
+        "description": "music.settings",
+        "peekOfCode": "ROOT_URLCONF = 'music.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "music.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "music.settings",
+        "description": "music.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "music.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "music.settings",
+        "description": "music.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'music.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "music.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "music.settings",
+        "description": "music.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "music.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "music.settings",
+        "description": "music.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "music.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "music.settings",
+        "description": "music.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "music.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "music.settings",
+        "description": "music.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "music.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "music.settings",
+        "description": "music.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "music.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "music.settings",
+        "description": "music.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "music.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "music.settings",
+        "description": "music.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "music.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "music.settings",
+        "description": "music.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "music.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "music.urls",
+        "description": "music.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', home, name='home'),\n    path('musician/', include('musician.urls')),\n    path('album/', include('album.urls')),\n]",
+        "detail": "music.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "music.views",
+        "description": "music.views",
+        "peekOfCode": "def home(request):\n    data = Album.objects.all()\n    return render(request,'home.html',{'data':data})",
+        "detail": "music.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "music.wsgi",
+        "description": "music.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "music.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "musician.migrations.0001_initial",
+        "description": "musician.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Musician',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('first_name', models.CharField(max_length=100)),",
+        "detail": "musician.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "MusicianConfig",
+        "kind": 6,
+        "importPath": "musician.apps",
+        "description": "musician.apps",
+        "peekOfCode": "class MusicianConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'musician'",
+        "detail": "musician.apps",
+        "documentation": {}
+    },
+    {
+        "label": "MusicianForm",
+        "kind": 6,
+        "importPath": "musician.forms",
+        "description": "musician.forms",
+        "peekOfCode": "class MusicianForm(forms.ModelForm):\n    class Meta:\n        model = Musician\n        fields = \"__all__\"",
+        "detail": "musician.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Musician",
+        "kind": 6,
+        "importPath": "musician.models",
+        "description": "musician.models",
+        "peekOfCode": "class Musician(models.Model):\n    first_name = models.CharField(max_length=100)\n    last_name = models.CharField(max_length=100)\n    email = models.CharField(max_length=100)\n    phone_number = models.CharField(max_length=15)\n    instrument_type = models.CharField(max_length=50)\n    def __str__(self):\n        return self.first_name + ' ' + self.last_name",
+        "detail": "musician.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "musician.urls",
+        "description": "musician.urls",
+        "peekOfCode": "urlpatterns = [\n    path('add/', add_musician, name='musician.add'),\n    path('edit/<int:id>', edit_musician, name='musician.edit'),\n    path('delete/<int:id>', delete_musician, name='musician.delete'),\n]",
+        "detail": "musician.urls",
+        "documentation": {}
+    },
+    {
+        "label": "add_musician",
+        "kind": 2,
+        "importPath": "musician.views",
+        "description": "musician.views",
+        "peekOfCode": "def add_musician(request):\n    if request.method == 'POST':\n        musician_form = forms.MusicianForm(request.POST)\n        if musician_form.is_valid():\n            musician_form.save()\n            messages.success(request, 'Your form has been submitted successfully!')\n            return redirect('musician.add')\n    form = forms.MusicianForm\n    data = Musician.objects.all()\n    return render(request,'add_musician.html',{'form':form,'data':data})",
+        "detail": "musician.views",
+        "documentation": {}
+    },
+    {
+        "label": "edit_musician",
+        "kind": 2,
+        "importPath": "musician.views",
+        "description": "musician.views",
+        "peekOfCode": "def edit_musician(request,id):\n    musician = Musician.objects.get(pk=id)\n    musician_form = forms.MusicianForm(instance=musician)\n    if request.method == 'POST':\n        musician_form = forms.MusicianForm(request.POST,instance=musician)\n        if musician_form.is_valid():\n            musician_form.save()\n            messages.success(request, 'The musician has been updated successfully!')\n            return redirect('musician.add')\n    data = Musician.objects.all()",
+        "detail": "musician.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete_musician",
+        "kind": 2,
+        "importPath": "musician.views",
+        "description": "musician.views",
+        "peekOfCode": "def delete_musician(request, id):\n    musician = Musician.objects.get(pk=id)\n    musician.delete()\n    messages.success(request, 'Record deleted successfully!')\n    return redirect('musician.add')",
+        "detail": "musician.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'music.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

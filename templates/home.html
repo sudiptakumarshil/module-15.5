@@ -6,6 +6,43 @@
 
 {% block content %}
   <div class="container">
-    <div class="row mt-4"><h1>This is Home</h1></div>
+    <div class="row mt-4">
+      <h4>This is Home</h4>
+      <div class="col-md-12 col-sm-12 col-lg-12">
+        <div class="table-responsive">
+          <table class="table table-bordered mt-4">
+            <thead>
+              <tr>
+                <th>ID</th>
+                <th>Musician Name</th>
+                <th>Email</th>
+                <th>Album Rating</th>
+                <th>Instrument Type</th>
+                <th>Album Name</th>
+                <th>Release Date</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for item in data %}
+                <tr>
+                  <td>{{ forloop.counter }}</td>
+                  <td>{{ item.musician.first_name }} {{ item.musician.last_name }}</td>
+                  <td>{{ item.musician.email }}</td>
+                  <td>{{ item.rating }}</td>
+                  <td>{{ item.musician.instrument_type }}</td>
+                  <td>{{ item.name }}</td>
+                  <td>{{ item.release_date }}</td>
+                  <td class="d-flex">
+                    <a href="{% url 'album.edit' item.id %}" class="btn btn-warning btn-sm inline-button">Edit</a> &nbsp;
+                    <a href="{% url 'album.delete' item.id %}" onclick="return confirm('Are you sure?')" class="btn btn-danger btn-sm inline-button">Delete</a>
+                  </td>
+                </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
   </div>
 {% endblock %}
